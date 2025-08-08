@@ -1,4 +1,5 @@
 # progress tracker for degree students
+# by MUFAZ-VK
 import csv
 import matplotlib.pyplot as plt
 
