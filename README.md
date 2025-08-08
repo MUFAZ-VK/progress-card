@@ -5,3 +5,6 @@
 ```
 git clone https://github.com/MUFAZ-VK/progress-card
 ```
+```
+python3 progress-card.py
+```
